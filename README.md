@@ -1,5 +1,5 @@
 ## PROJECT GOAL:
-Create the SDTM DM data set based on the SDTM specification file.
+Create an SDTM DM data set based on the SDTM specification file.
 ## ABOUT THE DATA:
 The Clinical Data Management (CDM) data sets capture the data recorded on the Case Report Forms (CRF). 
 The data is captured during the clinical trial, either by hand or electronically, on Case Report Forms (CRF).
