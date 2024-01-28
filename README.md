@@ -13,28 +13,28 @@ The cleansed data from the form would then be converted into CDM data sets.
 
 ## SDTM SPECIFICATION:
 ### VARIABLE NAME    |  	VARIABLE LABEL
-- STUDYID 	            Study Identifier 
-- DOMAIN 	              Domain Abbreviation 
-- USUBJID 	            Unique Subject Identifier 
-- SUBJID 	              Subject Identifier for the Study 
-- RFSTDTC 	            Subject Reference Start Date/Time 
-- RFENDTC 	            Subject Reference End Date/Time 
-- RFXSTDTC 	            Date/Time of First Study Treatment 
-- RFXENDTC 	            Date/Time of Last Study Treatment 
-- RFPENDTC 	            Date/Time of End of Participation 
-- DTHDTC 	              Date/Time of Death 
-- DTHFL 	              Subject Death Flag 
-- SITEID 	              Study Site Identifier 
-- BRTHDTC 	            Date/Time of Birth 
-- AGE 	                Age 
-- AGEU 	                Age Units 
-- RACE 	                Race 
-- ETHNIC 	              Ethnicity
-- SEX 	                Sex 
-- ARMCD 	              Planned Arm Code 
-- ACTARMCD 	            Actual Arm Code 
-- DMDTC                 Date/Time of Collection 
-- CENTRE 	              Centre Number 
-- PART 	                Study Part Code 
-- RACEOTH 	            Other Race Specification 
-- VISITDTC	            Date of Visit
+- STUDYID 	      :      Study Identifier 
+- DOMAIN 	          :     Domain Abbreviation 
+- USUBJID 	          :   Unique Subject Identifier 
+- SUBJID 	              : Subject Identifier for the Study 
+- RFSTDTC 	      :       Subject Reference Start Date/Time 
+- RFENDTC 	        :     Subject Reference End Date/Time 
+- RFXSTDTC 	     :        Date/Time of First Study Treatment 
+- RFXENDTC 	       :      Date/Time of Last Study Treatment 
+- RFPENDTC 	    :         Date/Time of End of Participation 
+- DTHDTC 	  :             Date/Time of Death 
+- DTHFL 	     :          Subject Death Flag 
+- SITEID 	       :        Study Site Identifier 
+- BRTHDTC 	       :      Date/Time of Birth 
+- AGE 	    :             Age 
+- AGEU 	      :           Age Units 
+- RACE 	        :         Race 
+- ETHNIC 	   :            Ethnicity
+- SEX 	     :            Sex 
+- ARMCD 	    :           Planned Arm Code 
+- ACTARMCD 	    :         Actual Arm Code 
+- DMDTC           :       Date/Time of Collection 
+- CENTRE 	          :     Centre Number 
+- PART 	            :     Study Part Code 
+- RACEOTH 	     :        Other Race Specification 
+- VISITDTC	       :      Date of Visit
